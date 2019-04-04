@@ -1,0 +1,13 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.column {
+    width: 40%;
+    display: inline-block;
+}
+/* 
+h1 {
+    color: red;
+} */
